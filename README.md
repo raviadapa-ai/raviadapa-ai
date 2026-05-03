@@ -46,12 +46,16 @@ I focus on building systems at the intersection of:
 
 ---
 
-## 📦 Featured Project
+## 📦 Featured Projects
+---
+### 🔥 System Metrics Anomaly Detection
+---
+A lightweight observability simulator that generates system metrics (CPU, Memory, Latency), detects anomalies using statistical techniques, and correlates incidents.
 
-### 🔥 AIOps Monitoring System (in progress)
-
+👉 https://github.com/raviadapa-ai/system-metrics-anomaly-detection
+---
 ### 🔥 Python for AI/ML — AIOps Edition
-
+---
 A structured engineering-focused repository covering:
 
 * Log parsing & event correlation
@@ -60,7 +64,11 @@ A structured engineering-focused repository covering:
 * Foundations for ML in AIOps
 
 👉 https://github.com/raviadapa-ai/python-for-ai-ml
+---
 
+### 🔥 AIOps Monitoring System (in progress) [PRIVATE REPOSITORY]
+---
+👉 https://github.com/raviadapa-ai/aiops-monitoring-agent
 ---
 
 ## 🎯 Career Direction
