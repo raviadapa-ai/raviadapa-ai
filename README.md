@@ -163,7 +163,7 @@ Building next-generation AgenticOps platforms that transform:
 
 ## 📫 Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+* 💼 LinkedIn: https://www.linkedin.com/in/raviadapa-ai/
 
 ---
 
