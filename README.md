@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi
 
-🚀 **AIOps Engineer | Python, Systems & Networking | Building AI for logs, metrics & incident detection**
+🚀 **AIOps | Python, Systems & Networking | Building AI for logs, metrics & incident detection**
 
 I focus on building systems at the intersection of:
 
