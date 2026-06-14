@@ -1,107 +1,172 @@
 # 👋 Hi, I'm Ravi
 
-🚀 **AIOps | Python, Systems & Networking | Building AI for logs, metrics & incident detection**
+🚀 **AIOps Engineer | Platform & Reliability Engineering | Agentic AI for Operations**
 
-I focus on building systems at the intersection of:
+I build intelligent operational systems at the intersection of:
 
-* ⚙️ Infrastructure & Distributed Systems
-* 🌐 Networking & Communication
-* 📊 Observability (Logs, Metrics)
-* 🤖 AI/ML for Operational Intelligence
+* ⚙️ Platform Engineering & Distributed Systems
+* 🌐 Infrastructure, Networking & Reliability
+* 📊 Observability (Logs, Metrics & Traces)
+* 🤖 Agentic AI, AIOps & Operational Intelligence
 
 ---
 
-## 🧠 What I’m Working On
+## 🧠 What I'm Building
 
-* Designing a **production-style AIOps system**
-* Building pipelines for **log & metric ingestion**
-* Developing **anomaly detection models for infrastructure**
-* Applying ML to **incident detection and root cause analysis**
+I am focused on building production-style AIOps and Agentic Operations platforms that transform operational telemetry into actionable intelligence.
+
+Current areas of focus:
+
+* Statistical Noise Reduction
+* Signal Correlation & Incident Detection
+* Evidence-Based Root Cause Analysis (RCA)
+* Splunk MCP Investigation Workflows
+* Human-in-the-Loop Remediation
+* AI-Assisted Operational Intelligence
+* Reliability Engineering & Platform Operations
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Core Systems**
+### Infrastructure & Platform Engineering
+
+* Linux
+* Networking & Communication Systems
+* Docker
+* Kubernetes (Learning Path)
+* Platform Engineering Concepts
+* Site Reliability Engineering (SRE)
+
+### Backend & APIs
 
 * Python
-* Linux
-* Networking & Data Communication
+* FastAPI
+* REST APIs
+* PostgreSQL
+* JSON Event Pipelines
 
-**Backend & APIs**
+### Observability & AIOps
 
-* FastAPI *(building APIs for AIOps systems)*
-* PostgreSQL *(storing logs, metrics & incident data)*
+* Splunk Enterprise
+* Splunk MCP Server
+* Logs, Metrics & Traces
+* Incident Correlation
+* Root Cause Analysis
+* Operational Intelligence
+* Anomaly Detection
+* Forecasting & Predictive Analytics
 
-**Data & AIOps**
+### Data & AI
 
-* NumPy, Pandas
-* Scikit-learn *(in progress)*
-* Time-series & anomaly detection
+* NumPy
+* Pandas
+* Scikit-Learn
+* Ollama
+* LLM Workflows
+* Agentic AI Systems
 
-**Engineering**
+### Engineering
 
-* Git & GitHub
+* Git
+* GitHub
+* VS Code
 * Jupyter Lab
+* WSL Linux
 
 ---
 
-## 📦 Featured Projects
+## 🚀 Featured Projects
+
+### 🔥 Splunk Agentic Ops Incident Copilot
+
+An AgenticOps platform that reduces operational noise, correlates signals into incidents, performs MCP-driven investigations, generates evidence-based RCA, and enables human-governed remediation through Splunk operational intelligence.
+
+Key Features:
+
+* Statistical Noise Reduction
+* Signal Correlation
+* MCP-Powered Investigation
+* Evidence-Based RCA
+* Human-in-the-Loop Remediation
+* Splunk Write-Back
+* Incident Lifecycle Management
+* Operational Intelligence Dashboard
+
 ---
+
 ### 🔥 System Metrics Anomaly Detection
----
-A lightweight observability simulator that generates system metrics (CPU, Memory, Latency), detects anomalies using statistical techniques, and correlates incidents.
+
+A lightweight observability simulator that generates infrastructure telemetry, performs anomaly detection using statistical techniques, and correlates incidents into actionable signals.
 
 👉 https://github.com/raviadapa-ai/system-metrics-anomaly-detection
----
-### 🔥 Python for AI/ML — AIOps Edition
----
-A structured engineering-focused repository covering:
 
-* Log parsing & event correlation
-* Infrastructure metrics analysis
-* Incident data processing
-* Foundations for ML in AIOps
+---
+
+### 🔥 Python for AI/ML — AIOps Edition
+
+Engineering-focused repository covering:
+
+* Log Analysis
+* Event Correlation
+* Infrastructure Telemetry
+* Statistical Analysis
+* Foundations of Machine Learning for AIOps
 
 👉 https://github.com/raviadapa-ai/python-for-ai-ml
+
 ---
 
-### 🔥 AIOps Monitoring System (in progress) [PRIVATE REPOSITORY]
----
-👉 https://github.com/raviadapa-ai/aiops-monitoring-agent
+### 🔥 AIOps Monitoring Platform (Private)
+
+Production-style AIOps platform focused on:
+
+* Telemetry Collection
+* Correlation
+* RCA
+* AI-Assisted Investigation
+* Operational Automation
+
 ---
 
 ## 🎯 Career Direction
 
-* AIOps Engineer/Builder
-* Site Reliability Engineer (SRE)
-* Platform / Systems Engineer
+I am pursuing roles and opportunities in:
+
+* AIOps Engineering
+* Site Reliability Engineering (SRE)
+* Platform Engineering
+* AI Infrastructure Engineering
+* Operational Intelligence Platforms
+* Technical Co-Founder Opportunities
 
 ---
 
-## 📈 Engineering Mindset
+## 📈 Engineering Philosophy
 
-* Systems > Tools
-* Observability is critical for reliability
-* Debugging production systems is a core skill
-* AI should enhance operational decision-making
+* Systems Thinking Over Tool Thinking
+* Reliability Is a Feature
+* Observability Enables Intelligence
+* Correlation Is More Valuable Than Raw Alerts
+* AI Should Augment Human Decision-Making
+* Automation Requires Governance
 
 ---
 
-## ⚡ Current Goal
+## ⚡ Current Mission
 
-Building an **end-to-end AIOps system**:
+Building next-generation AgenticOps platforms that transform:
 
-Logs + Metrics + ML → **Actionable Operational Insights**
+**Logs + Metrics + AI + Operational Context → Actionable Operational Intelligence**
 
 ---
 
 ## 📫 Connect
 
-* 💼 LinkedIn: *(add your link)*
+* 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
 
 ---
 
 <p align="center">
-🚀 Systems → Observability → AI → AIOps Engineering
+🚀 Platform Engineering → Observability → Agentic AI → AIOps
 </p>
